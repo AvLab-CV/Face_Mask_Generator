@@ -6,7 +6,7 @@ The code can add on a synthetic mask to each face in a dataset, offering an effi
 
 Result:
 --
-
+![Alt text](./imgs/Architecture.png)
 
 Pre-requisites:
 --
