@@ -6,7 +6,7 @@ The code can add on a synthetic mask to each face in a dataset, offering an effi
 
 Result:
 --
-![Alt text](./result/result.png)
+<p align="left"><img width="95%" src="result/result.png" /></p>
 
 Pre-requisites:
 --
