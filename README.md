@@ -1,8 +1,12 @@
 # Face_Mask_Generator
 
 Overview:
+--
+The code can add on a synthetic mask to each face in a dataset, offering an efficient solution to the lack of facial mask databases. This solution is helpful to the studies on face detection and recognition against facial masks.
 
 Result:
+--
+
 
 Pre-requisites:
 --
@@ -12,15 +16,15 @@ Pre-requisites:
 
 How to use:
 --
-1. 下載github
-2. 下載fan github，將圖片輸入至fan獲得68點landmark
-3. In **/sample/** directory, we provide 3 images to test the mask generator.
-4. In **/landmark/test.csv**, we provide the 68 landmarks and face types for 3 samples. 
-5. To geneate the masks for samples, run the following commands:
+1. Clone the Repository to preserve Directory Structure.
+2. In **/sample/** directory, we provide 3 images to test the mask generator.
+3. In **/landmark/test.csv**, we provide the 68 landmarks and face types for 3 samples. 
+4. To geneate the masks for samples, run the following commands:
 ```python make_mask.py.py ```
 
+
 ```bash
-Definition of face types : 
+Definition of the face types : 
 
 Example : 0_1 
 The first number "0" means the facial image is frontal and "1" means the facial image is profile.
