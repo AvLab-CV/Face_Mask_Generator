@@ -20,7 +20,7 @@ How to use:
 ```python make_mask.py.py ```
 
 ```bash
-Definition of face type : 
+Definition of face types : 
 
 Example : 0_1 
 The first number "0" means the facial image is frontal and "1" means the facial image is profile.
