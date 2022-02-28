@@ -11,7 +11,7 @@ Several approaches have been proposed recently. Zheng et al. propose a weakly su
 Result:
 --
 Performance on the AR Face database, MFR2 database.
-<p align="left"><img width="50%" src="compare.jpg" /></p>
+<p align="left"><img width="50%" src="compare.JPG" /></p>
 
 Result:
 --
